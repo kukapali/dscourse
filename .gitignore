@@ -1,0 +1,13 @@
+# bazel
+bazel-*
+
+# intellij
+.ijwb
+.idea
+
+# java
+*.class
+
+# miscellaneous
+*.tags
+.DS_Store
